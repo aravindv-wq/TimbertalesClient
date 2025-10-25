@@ -24,3 +24,20 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --PrimaryColor: #c37968;
+  --SubTitleColor: #09415a;
+  --ContentColor: #09415a;
+  --MainBgColor: #f8e9df;
+  --CardBackgroundColor: #ffffff;
+  --CardFontColor: #09415a;
+  --HyperLinkColor: #c37968;
+}
+
+
